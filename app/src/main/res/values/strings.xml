@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JetTip</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="enter_amount">Enter Bill Amount\n</string>
 </resources>
